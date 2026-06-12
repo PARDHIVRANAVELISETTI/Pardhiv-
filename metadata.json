@@ -1,0 +1,6 @@
+{
+  "name": "Food Price Compare",
+  "description": "Compare live food pricing, platform fees, delivery margins, and coupon deals between Swiggy and Zomato from the same restaurant side-by-side to save money.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
